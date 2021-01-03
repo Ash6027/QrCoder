@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Qrcoder</string>
+    <string name="Scan">Scan</string>
+    <string name="Generate">Qrcode</string>
+    <string name="Enter">Enter your code</string>
+    <string name="Scan1">Your code</string>
+    <string name="Scan2">BarCode</string>
+</resources>
